@@ -181,7 +181,6 @@ python train.py --dataset path/to/data --epochs 10 --batch-size 256
 ```
 
 > ⚠️ Training from scratch requires significant compute (GPU recommended).  
-> Alternatively, you can use the provided `last.pt` checkpoint and export to `model.pth`.
 
 ---
 
