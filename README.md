@@ -19,7 +19,7 @@ The model reaches an estimated **~1100 Elo** (16% win-rate vs Stockfish-3 at Elo
 - [Project Layout](#-project-layout)  
 - [Model & Training Summary](#-model--training-summary)  
 - [Reproducibility & Scripts](#-reproducibility--scripts)  
-- [Roadmap / Future Work](#-roadmap-of-future-work)  
+- [Roadmap of Future Work](#-roadmap-of-future-work)  
 - [Acknowledgements](#-acknowledgements)  
 - [License](#-license)  
 - [Author and Contact](#-author-and-contact)
