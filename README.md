@@ -19,7 +19,6 @@ The model reaches an estimated **~1100 Elo** (16% win-rate vs Stockfish-3 at Elo
 - [Project Layout](#-project-layout)  
 - [Model & Training Summary](#-model--training-summary)  
 - [Reproducibility & Scripts](#-reproducibility--scripts)  
-- [Roadmap of Future Work](#-roadmap-of-future-work)  
 - [Acknowledgements](#-acknowledgements)  
 - [License](#-license)  
 - [Author and Contact](#-author-and-contact)
@@ -183,14 +182,6 @@ python train.py --dataset path/to/data --epochs 10 --batch-size 256
 
 > ⚠️ Training from scratch requires significant compute (GPU recommended).  
 > Alternatively, you can use the provided `last.pt` checkpoint and export to `model.pth`.
-
----
-
-## 🛣️ Roadmap of Future Work
-
-- [ ] Upgrade frontend with richer visualizations (available moves, captured piece display).  
-- [ ] Improve AI strength by training longer + on stronger datasets.  
-- [ ] Add **MCTS (Monte Carlo Tree Search)** on top of the policy/value net.  
 
 ---
 
