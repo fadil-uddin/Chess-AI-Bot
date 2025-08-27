@@ -137,16 +137,16 @@ The Flask backend exposes simple endpoints:
 ```
 chess-ai-bot/
 │──chess-ai-app
-│    │── backend/             # Flask backend serving the AI
-│    │   ├── app.py           # Flask app entrypoint
-│    │   ├── model_loader.py  # Loads PyTorch model
-│    │   └── requirements.txt # Python dependencies
+│    │── backend/                              # Flask backend serving the AI
+│    │   ├── app.py                            # Flask app entrypoint
+│    │   ├── model_loader.py                   # Loads PyTorch model
+│    │   └── requirements.txt                  # Python dependencies
 │    │
-│    │── frontend/            # React frontend
+│    │── frontend/                             # React frontend
 │    │   ├── src/
 │    │   └── package.json
 │    │
-│    │── savedModels/         # Training checkpoints (e.g. last.pt, model.pth)
+│    │── savedModels/                         # Training checkpoints (e.g. last.pt, model.pth)
 │    │── Dockerfile
 │ 
 │── chess-ai-model
