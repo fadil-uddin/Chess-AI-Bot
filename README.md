@@ -22,7 +22,7 @@ The model reaches an estimated **~1100 Elo** (16% win-rate vs Stockfish-3 at Elo
 - [Roadmap / Future Work](#-roadmap-of-future-work)  
 - [Acknowledgements](#-acknowledgements)  
 - [License](#-license)  
-- [Author / Contact](#-author-)
+- [Author and Contact](#-author-and-contact)
 
 ---
 
@@ -210,7 +210,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
+## 👤 Author and Contact
 
 Developed by **Syed Fadil Uddin**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/syed-fadil-uddin/](https://www.linkedin.com/in/syed-fadil-uddin/)  
